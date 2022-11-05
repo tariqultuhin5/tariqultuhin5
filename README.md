@@ -15,6 +15,4 @@ Skills: HTML / CSS / BOOTSTARP
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tariqultuhin5)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tariqultuhin5)  
-
-![Profile views](https://gpvc.arturio.dev/tariqultuhin5)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tariqultuhin5) 
