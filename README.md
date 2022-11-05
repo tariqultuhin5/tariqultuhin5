@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Tariqul.
-#### Professional Graphics & Website Designer.
+#### A Professional Graphics & Website Designer.
 Shopify | Squarespace | Wix | Theme Customization | Product Upload | Graphic Design | Logo Design | Background Remove | Photo Retouching | Image Editing | E-Commerce Website Design & Adobe Photoshop Professional Expert
 
 Skills: HTML / CSS / BOOTSTARP
