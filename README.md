@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi there 👋, I'm Tariqul.
+#### Professional Graphics & Website Designer.
+Shopify | Squarespace | Wix | Theme Customization | Product Upload | Graphic Design | Logo Design | Background Remove | Photo Retouching | Image Editing | E-Commerce Website Design & Adobe Photoshop Professional Expert
 
-<!--
-**tariqultuhin5/tariqultuhin5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills: HTML / CSS / BOOTSTARP
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tariqultuhin5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tariqultuhin5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tariqultuhin5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/tariqultuhin5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/tariqultuhin5)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=tariqultuhin5)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqultuhin5&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=tariqultuhin5)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=tariqultuhin5)  
+
+![Profile views](https://gpvc.arturio.dev/tariqultuhin5)  
